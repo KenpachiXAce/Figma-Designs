@@ -17,3 +17,5 @@ All the projects including passion and client work are linked here:
 [FUTSAL BOOKING] https://www.figma.com/design/RI23qlTjZALKgtMOPmnDbE/Sameer-s-Artboard?node-id=5286-11722&t=mRh6BNStsk8RHPJC-1
 
 [PERSONAL PROJECT] https://www.figma.com/design/RI23qlTjZALKgtMOPmnDbE/Sameer-s-Artboard?node-id=5286-10831&t=mRh6BNStsk8RHPJC-1
+
+[BISWAS PORTFOLIO SELF-MADE] https://www.figma.com/design/RI23qlTjZALKgtMOPmnDbE/Sameer-s-Artboard?node-id=5179-5936&t=mRh6BNStsk8RHPJC-1
